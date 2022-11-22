@@ -1,6 +1,6 @@
 # first_flutter_app
 
-A this is my new Flutter project.
+A this is my new Flutter project and this is new technology.
 
 ## Getting Started
 
